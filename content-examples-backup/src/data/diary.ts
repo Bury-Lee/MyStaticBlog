@@ -11,8 +11,16 @@ export interface DiaryItem {
 	tags?: string[];
 }
 
-// 日记数据（空，等待添加）
-const diaryData: DiaryItem[] = [];
+// 示例日记数据
+const diaryData: DiaryItem[] = [
+	{
+		id: 1,
+		content:
+			"The falling speed of cherry blossoms is five centimeters per second!",
+		date: "2025-01-15T10:30:00Z",
+		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
+	},
+];
 
 // 获取日记列表（按时间倒序）
 export const getDiaryList = (limit?: number) => {
