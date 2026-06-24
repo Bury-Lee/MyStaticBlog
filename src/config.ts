@@ -26,7 +26,7 @@ const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UT
 export const siteConfig: SiteConfig = {
 	title: "星梦的赛博小屋",
 	subtitle: "分享各种趣事",
-	siteURL: "", // 请替换为你的站点URL，以斜杠结尾
+	siteURL: "https://my-blog-pink-kappa.vercel.app/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-01-24", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
@@ -75,7 +75,7 @@ export const siteConfig: SiteConfig = {
 
 	bilibili: {
 		vmid: "454286634", // 在此处设置你的Bilibili用户ID (uid)，例如 "1129280784"
-		fetchOnDev: false, // 是否在开发环境下获取 Bilibili 数据（默认 false）
+		fetchOnDev: true, // 是否在开发环境下获取 Bilibili 数据（默认 false）
 		coverMirror: "", // 封面图片镜像源（可选，如果需要使用镜像源，例如 "https://images.weserv.nl/?url="）
 		useWebp: true, // 是否使用WebP格式（默认 true）
 
