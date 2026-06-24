@@ -1,49 +1,29 @@
+## 👋 关于我
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+你好！欢迎来到我的小站 🎉
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+我是 **星梦**，一个热爱技术、动漫与生活的开发者。  
+目前是学生，对后端开发, AI 应用、系统架构与基础设施尤其感兴趣。  
 
-## 🌟 Theme Features
+这个博客是我记录思考、分享知识、收藏回忆的地方。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+在这里，我会写——
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+- 💻 **技术笔记** — 后端开发、框架使用、踩坑记录
+- 📖 **阅读感想** — 书评、影评、番剧点评
+- ✨ **生活碎片** — 日常随笔、旅行见闻、偶尔的碎碎念
+- 🎨 **兴趣相关** — 动漫、音乐、设计等一切有趣的东西
+- 🌍 **小说创作** — 原创角色、地理设定、力量体系、种族文化等小说构思
 
 
+## 🤝 关于这个博客
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+站点使用 [Astro](https://astro.build/) 构建，主题基于 [Mizuki](https://github.com/matsuzaka-yuki/mizuki) 改造而来。
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+## 📬 联系我
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
+- **GitHub**: [GitHub](https://github.com/Bury-Lee)
+- **Email**: [QQ邮箱](18151161@qq.com)
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+*感谢你读到这儿。如果有什么想聊的，不妨留个言 😊*
