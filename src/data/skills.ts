@@ -47,6 +47,29 @@ export const skillsData: Skill[] = [
 	"category": "backend",
 	"level": "expert",
 	"experience": { "years": 2, "months": 0 },
+	"projects": ["agilepool", "goblog-stardreamer", "zhimu", "autoops"],
+	"color": "#00ADD8"
+	},
+	{
+	"id": "gin",
+	"name": "Gin",
+	"description": "Go语言高性能HTTP Web框架，轻量、快速，适用于构建RESTful API和Web服务",
+	"icon": "logos:go",
+	"category": "backend",
+	"level": "intermediate",
+	"experience": { "years": 0, "months": 6 },
+	"projects": ["goblog-stardreamer"],
+	"color": "#008ECF"
+	},
+	{
+	"id": "gorm",
+	"name": "GORM",
+	"description": "Go语言最流行的ORM库，功能强大、开发友好，支持自动迁移、关联查询和事务管理",
+	"icon": "logos:go",
+	"category": "backend",
+	"level": "intermediate",
+	"experience": { "years": 0, "months": 6 },
+	"projects": ["goblog-stardreamer"],
 	"color": "#00ADD8"
 	},
 	{
@@ -89,6 +112,7 @@ export const skillsData: Skill[] = [
 	"category": "database",
 	"level": "intermediate",
 	"experience": { "years": 0, "months": 6 },
+	"projects": ["goblog-stardreamer", "autoops"],
 	"color": "#4479A1"
 	},
 	{
@@ -99,6 +123,7 @@ export const skillsData: Skill[] = [
 	"category": "database",
 	"level": "intermediate",
 	"experience": { "years": 0, "months": 3 },
+	"projects": ["autoops"],
 	"color": "#336791"
 	},
 	{
@@ -107,8 +132,9 @@ export const skillsData: Skill[] = [
 	"description": "高性能内存数据结构存储，用作数据库、缓存和消息队列",
 	"icon": "logos:redis",
 	"category": "database",
-	"level": "beginner",
-	"experience": { "years": 0, "months": 2 },
+	"level": "intermediate",
+	"experience": { "years": 0, "months": 3 },
+	"projects": ["goblog-stardreamer"],
 	"color": "#DC382D"
 	},
 	{
@@ -119,6 +145,7 @@ export const skillsData: Skill[] = [
 	"category": "database",
 	"level": "intermediate",
 	"experience": { "years": 0, "months": 4 },
+	"projects": ["autoops"],
 	"color": "#003B57"
 	},
 
@@ -159,8 +186,9 @@ export const skillsData: Skill[] = [
 	"description": "容器化平台，简化应用部署和环境管理",
 	"icon": "logos:docker-icon",
 	"category": "tools",
-	"level": "beginner",
-	"experience": { "years": 0, "months": 2 },
+	"level": "intermediate",
+	"experience": { "years": 0, "months": 4 },
+	"projects": ["goblog-stardreamer"],
 	"color": "#2496ED"
 	},
 	{
@@ -169,9 +197,21 @@ export const skillsData: Skill[] = [
 	"description": "开源操作系统，服务器部署和开发环境的首选",
 	"icon": "logos:linux-tux",
 	"category": "tools",
-	"level": "beginner",
+	"level": "intermediate",
 	"experience": { "years": 0, "months": 6 },
+	"projects": ["goblog-stardreamer", "autoops"],
 	"color": "#FCC624"
+	},
+	{
+	"id": "nginx",
+	"name": "Nginx",
+	"description": "高性能Web服务器和反向代理服务器，支持负载均衡和水平扩展",
+	"icon": "logos:nginx",
+	"category": "tools",
+	"level": "beginner",
+	"experience": { "years": 0, "months": 4 },
+	"projects": ["goblog-stardreamer"],
+	"color": "#009639"
 	},
 
 	// ========== 其他 ==========
@@ -181,8 +221,20 @@ export const skillsData: Skill[] = [
 	"description": "分布式搜索和分析引擎，用于全文搜索和数据分析",
 	"icon": "logos:elasticsearch",
 	"category": "other",
-	"level": "beginner",
-	"experience": { "years": 0, "months": 1 },
+	"level": "intermediate",
+	"experience": { "years": 0, "months": 4 },
+	"projects": ["goblog-stardreamer"],
 	"color": "#005571"
+	},
+	{
+	"id": "ai-llm",
+	"name": "AI/LLM 集成",
+	"description": "基于OpenAI兼容API的大模型集成，包括内容审核、AI助手、智能分析、自动恢复等场景的工程化实践",
+	"icon": "logos:openai-icon",
+	"category": "other",
+	"level": "intermediate",
+	"experience": { "years": 0, "months": 6 },
+	"projects": ["goblog-stardreamer", "zhimu", "autoops"],
+	"color": "#10A37F"
 	}
 ]
