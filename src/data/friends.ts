@@ -11,7 +11,16 @@ export interface FriendItem {
 }
 
 // 友情链接数据（空，等待添加）
-export const friendsData: FriendItem[] = [];
+export const friendsData: FriendItem[] = [
+	{
+		id: 1,
+		title: "麦芽唐",
+		imgurl: "https://myt.lcatl.cn/images/avatar.png",
+		desc: "第47日份麦芽唐 | 学生 | 小画师",
+		siteurl: "https://myt.lcatl.cn/",
+		tags: ["画师", "艺术创作"],
+	},
+];
 
 // 获取所有友情链接数据
 export function getFriendsList(): FriendItem[] {
