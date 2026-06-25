@@ -38,7 +38,7 @@ export const projectsData: Project[] = [
   {
     "id": "goblog-stardreamer",
     "title": "GoBlog（StarDreamerCyberNook）",
-    "description": "基于 Gin + GORM + Redis + Elasticsearch 的博客/社区后端，集成 AI 内容审核、全文搜索、读写分离和定时任务",
+    "description": "基于 Gin + GORM + Redis + Elasticsearch 的博客/社区后端，集成 AI 内容审核、全文搜索、读写分离和定时任务等功能",
     "image": "",
     "category": "web",
     "techStack": ["Go", "Gin", "GORM", "MySQL", "Redis", "Elasticsearch", "Docker"],
