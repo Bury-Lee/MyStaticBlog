@@ -166,12 +166,12 @@ export const siteConfig: SiteConfig = {
 
 
 			subtitle: [
-				"近水浮碎月……",
-				"花开花落花无声，思前思后思故人……",
-				"晚风拂旧梦，灯火映故人。",
 				"日子一般般，有你不一样。",
+				"花开花落花无声，思前思后思故人",
 				"今天的云很好看，想拍给你看。",
+				"晚风拂旧梦，灯火映故人",
 				"今天是普普通通的一天。不过，是稍微好一点的一天。",
+				"散去迷茫如梦醒,洗净浮华见自己"
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -291,6 +291,12 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa7-brands:bilibili",
 				},
+				{
+					name: "QQ 群聊",
+					url: "https://qm.qq.com/q/RhTgPjTmcE",
+					external: true,
+					icon: "fa7-brands:qq",
+				},
 			],
 		},
 		{
@@ -381,6 +387,11 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/Bury-Lee",
+		},
+		{
+			name: "QQ 群聊",
+			icon: "fa7-brands:qq",
+			url: "https://qm.qq.com/q/RhTgPjTmcE",
 		},
 	],
 };

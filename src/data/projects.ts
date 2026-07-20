@@ -77,6 +77,21 @@ export const projectsData: Project[] = [
     "featured": false,
     "tags": ["DevOps", "AI", "命令行", "自动化"],
     "showImage": false
+  },
+  {
+    "id": "allinker",
+    "title": "allinker",
+    "description": "跨 AI Agent 协作入口 CLI 工具，为同一项目的多个 AI Agent 提供文件锁、消息通信、文件监听、账户管理及 LAN 服务模式等协作功能",
+    "image": "",
+    "category": "other",
+    "techStack": ["Go", "SQLite"],
+    "status": "completed",
+    "sourceCode": "https://github.com/Bury-Lee/allinker",
+    "startDate": "2026-05-01",
+    "endDate": "2026-07-13",
+    "featured": true,
+    "tags": ["AI Agent", "CLI", "协作", "Go"],
+    "showImage": false
   }
 ];
 
