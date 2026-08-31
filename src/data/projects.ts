@@ -92,6 +92,34 @@ export const projectsData: Project[] = [
     "featured": true,
     "tags": ["AI Agent", "CLI", "协作", "Go"],
     "showImage": false
+  },
+  {
+    "id": "orbitcloud",
+    "title": "OrbitCloud",
+    "description": "企业级分布式网盘系统：Go + Vue3 后端，内置 Rust SMB 网关，网盘可直接挂载为 Windows 网络硬盘，具备多级权限、用户组、分享、配额与对象存储分片容灾能力",
+    "image": "",
+    "category": "web",
+    "techStack": ["Go", "Vue 3", "Rust", "PostgreSQL", "Docker"],
+    "status": "completed",
+    "sourceCode": "https://github.com/Bury-Lee/OrbitCloud",
+    "startDate": "2026-08-01",
+    "featured": true,
+    "tags": ["网盘", "SMB", "分布式", "开源", "Go"],
+    "showImage": false
+  },
+  {
+    "id": "sshbox",
+    "title": "sshbox",
+    "description": "仿 WSL 体验的远程虚拟机 SSH 工具：配置一次，run / push / pull / shell 一条命令完成远程执行与文件传输，输出与退出码透传",
+    "image": "",
+    "category": "other",
+    "techStack": ["Go", "SSH", "SFTP"],
+    "status": "completed",
+    "sourceCode": "https://github.com/Bury-Lee/sshbox",
+    "startDate": "2026-08-21",
+    "featured": false,
+    "tags": ["SSH", "命令行", "WSL", "Go"],
+    "showImage": false
   }
 ];
 
