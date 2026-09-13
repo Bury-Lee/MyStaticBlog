@@ -63,3 +63,11 @@ tem/
 学习笔记/
 .env
 node_modules/
+src/content/posts/小说设定-传奇之后-五大种族志.md
+src/content/posts/小说设定-传说之后-红石疫病与生死的救赎.md
+src/content/posts/小说设定-灰烬时代-E星社会模型.md
+
+TODO.md
+
+
+.astro/
