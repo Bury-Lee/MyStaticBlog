@@ -1,6 +1,6 @@
 ---
 title: SQL 语言入门：从零开始学数据库查询与数据管理
-published: 2024-09-02
+published: 2024-09-14
 updated: 2025-05-15
 description: 一份详尽的 SQL 入门指南，从数据库基础概念到核心语法，涵盖表操作、数据查询（SELECT）、插入更新删除、聚合分组、多表 JOIN、事务与索引优化，以 SQLite 为例带你掌握数据库操作。
 tags: [SQL, 技术]

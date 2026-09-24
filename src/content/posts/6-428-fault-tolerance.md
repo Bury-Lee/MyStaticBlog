@@ -1,6 +1,6 @@
-﻿---
+---
 title: 分布式容错设计：状态转移与复制状态机精讲
-published: 2025-05-20
+published: 2025-05-28
 description: 从单点故障问题出发，对比状态转移与复制状态机两种主备同步方案，深入讨论非确定性操作的处理方法，以及心跳检测与故障切换（Failover）机制。
 tags: [MIT 6.428, 分布式系统, 容错, 复制状态机, 状态转移, 故障切换]
 category: Distributed Systems

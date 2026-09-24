@@ -20,6 +20,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://myt.lcatl.cn/",
 		tags: ["画师", "艺术创作"],
 	},
+	{
+		id: 2,
+		title: "第二个麦芽唐",
+		imgurl: "https://myt.stardreamer.cloud/images/avatar.png",
+		desc: "第47日份麦芽唐 | 小画师主页(自建)",
+		siteurl: "https://myt.stardreamer.cloud",
+		tags: ["画师", "画册"],
+	},
 ];
 
 // 获取所有友情链接数据

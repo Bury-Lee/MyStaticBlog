@@ -1,6 +1,6 @@
 ---
 title: Go语言并发安全入门指南
-published: 2025-05-09
+published: 2025-03-28
 description: 多个 goroutine 同时访问共享数据时会出现竞态条件。Go 提供了四种核心机制来保证并发安全：Mutex、atomic、Channel 和同步原语。
 tags: [Go, Concurrency, Safety, Sync]
 category: Go

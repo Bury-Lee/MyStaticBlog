@@ -1,6 +1,6 @@
-﻿---
+---
 title: 从 EC2 到 Aurora：Amazon 云数据库架构的演进之路
-published: 2025-06-09
+published: 2025-06-21
 description: 追踪 Amazon 云基础设施从 EC2+本地盘到 EBS 块存储、再到 RDS 镜像和 Aurora 日志驱动复制的演进过程，重点对比完整页复制与日志复制在跨可用区容错中的性能差异。
 tags: [MIT 6.824, 分布式系统, AWS, Aurora, EBS, 云数据库, 容错]
 category: Distributed Systems

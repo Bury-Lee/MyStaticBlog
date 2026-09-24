@@ -1,6 +1,6 @@
 ---
 title: GO 语言单元测试入门
-published: 2025-05-01
+published: 2024-12-20
 description: Go 的测试工具链高度集成、零依赖。testing 是标准库，go test 是官方命令，开箱即用。涵盖基本规范、表驱动测试、Benchmark、Mock 等完整知识。
 tags: [Go, Testing, UnitTest]
 category: Go

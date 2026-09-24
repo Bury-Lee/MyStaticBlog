@@ -1,6 +1,6 @@
 ---
 title: 深入浅出 Raft：万字解析分布式共识的核心设计
-published: 2025-05-12
+published: 2025-05-15
 description: 在容错、性能与一致性之间找到平衡。深入解析 Raft 的核心设计理念、领导者选举、日志复制与安全性保证，理解分布式共识的核心。
 tags: [Distributed, Raft, Consensus, Algorithm]
 category: 分布式系统

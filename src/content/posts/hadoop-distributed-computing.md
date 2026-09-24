@@ -1,6 +1,6 @@
 ---
 title: 以Hadoop为例，解读分布式计算设计
-published: 2025-05-10
+published: 2025-04-21
 description: 以 Hadoop 为例，用「写文件」「读文件」「MapReduce 作业」「NameNode 故障切换」四个真实操作，解读分布式系统的核心设计。
 tags: [Distributed, Hadoop, HDFS, MapReduce, BigData]
 category: 分布式系统

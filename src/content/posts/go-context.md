@@ -1,6 +1,6 @@
 ---
 title: Go Context 完全指南：树状级联、超时控制、值传递与最佳实践
-published: 2025-05-04
+published: 2025-01-26
 description: Context 是 goroutine 树状级联取消和超时管理的标准方案。覆盖创建、传递、取消、超时、值传递与最佳实践。
 tags: [Go, Context, Concurrency, BestPractice]
 category: Go

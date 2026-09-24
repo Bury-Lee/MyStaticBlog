@@ -1,6 +1,6 @@
-﻿---
+---
 title: 数据库内核：存储架构与页目录详解
-published: 2025-03-11
+published: 2024-10-08
 description: 从硬件缓存层级出发，深入讲解数据库的页式存储、堆文件组织方式以及页目录如何实现 Page ID 到磁盘位置的映射。
 tags: [CMU 15-445, 数据库, 存储引擎, 页目录, 缓冲池, 堆文件]
 category: Database

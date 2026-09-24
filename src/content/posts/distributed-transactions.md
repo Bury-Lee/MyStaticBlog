@@ -1,6 +1,6 @@
 ---
 title: 分布式事务指南：从二阶段锁到两阶段提交，了解核心设计
-published: 2025-05-11
+published: 2025-05-03
 description: 在保证数据一致性的前提下让多个事务并发执行，同时还能在节点故障时做到全有或全无。深入分布式事务的核心概念与两阶段提交（2PC）协议。
 tags: [Distributed, Transaction, 2PC, Database]
 category: 分布式系统

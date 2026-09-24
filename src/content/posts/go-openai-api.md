@@ -1,6 +1,6 @@
 ---
 title: Go 调用 OpenAI 兼容 API：对话、流式输出、上下文与图片识别
-published: 2025-05-07
+published: 2025-03-03
 description: 用 Go 调用兼容 OpenAI API 的模型（LM Studio / Ollama），覆盖非流式对话、流式打字机效果、多轮上下文和图片交互。
 tags: [Go, OpenAI, AI, API]
 category: Go

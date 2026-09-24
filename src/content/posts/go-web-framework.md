@@ -1,6 +1,6 @@
 ---
 title: Go Web 从标准库到Gin框架的源码级解析
-published: 2025-05-05
+published: 2025-02-07
 description: 从标准库 net/http 出发，逐步过渡到 Gin 源码，覆盖路由注册、请求解析、JSON 交互、中间件设计、错误恢复与路由树算法。
 tags: [Go, Web, Gin, HTTP]
 category: Go

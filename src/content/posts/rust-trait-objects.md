@@ -1,6 +1,6 @@
 ---
 title: 深入浅出 Trait 与 Trait 对象
-published: 2026-09-13
+published: 2026-09-02
 description: 把 trait 理解成一份能力契约：讲清默认实现、泛型静态分发、dyn Trait 动态分发与虚表、对象安全，以及泛型和 trait 对象该如何选择。
 tags: [Rust, Trait, 泛型, 动态分发, 对象安全]
 category: Rust

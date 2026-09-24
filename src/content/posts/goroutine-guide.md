@@ -1,6 +1,6 @@
 ---
 title: GO语言 理解 Goroutine：使用与原理
-published: 2025-05-02
+published: 2025-01-02
 description: goroutine 是 Go 并发编程的核心抽象。深入讲解 GMP 调度模型、生命周期、常见陷阱、实战策略以及与其他语言协程的对比。
 tags: [Go, Goroutine, Concurrency]
 category: Go

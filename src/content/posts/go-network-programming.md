@@ -1,6 +1,6 @@
 ---
 title: Go 网络编程：从 TCP 字节流到自定义协议设计
-published: 2025-05-06
+published: 2025-02-19
 description: 从最基础的 TCP 示例出发，一步步理解消息边界、成帧、协议语义，最终实现一个简化的 RPC 协议，揭开 gRPC 等上层协议的面纱。
 tags: [Go, Network, TCP, RPC]
 category: Go

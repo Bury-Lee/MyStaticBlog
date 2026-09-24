@@ -1,6 +1,6 @@
 ---
 title: sshbox：给远程虚拟机装上 WSL 式体验的 SSH 工具
-published: 2026-09-01
+published: 2026-08-09
 description: 仿 WSL 的远程虚拟机 SSH 工具 sshbox：配置一次，run / push / pull / shell 一条命令完成远程执行与文件传输。完整讲解命令分发、配置管理、flag 覆盖、退出码透传、PTY 与 SFTP 递归的实现。
 tags: [Go, SSH, SFTP, 命令行, WSL]
 category: 项目

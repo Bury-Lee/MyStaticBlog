@@ -1,6 +1,6 @@
-﻿---
+---
 title: ZooKeeper 原理剖析：分布式协调服务的共享基础设施
-published: 2025-05-30
+published: 2025-06-09
 description: 讲解 ZooKeeper 作为数据中心共享协调服务的定位，介绍其核心原语（强一致存储、临时节点、顺序节点、原子操作）在配置管理、主节点选举、服务发现等场景中的应用模式。
 tags: [MIT 6.428, 分布式系统, ZooKeeper, 协调服务, 分布式一致性]
 category: Distributed Systems

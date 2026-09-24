@@ -1,6 +1,6 @@
 ---
 title: 理解 Rust 生命周期标注
-published: 2026-09-13
+published: 2026-08-21
 description: 从 E0106 报错出发理解引用与借用检查：返回值来自谁、'a 由谁决定、函数与结构体如何标注生命周期。
 tags: [Rust, 生命周期, 引用, 借用检查]
 category: Rust

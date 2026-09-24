@@ -1,6 +1,6 @@
-﻿---
+---
 title: Google Spanner 深度解读：全球跨数据中心分布式事务的实现
-published: 2025-06-25
+published: 2025-07-15
 description: 剖析 Spanner 的设计动机与正确性目标（可串行化 + 外部一致性），展示其全球多数据中心 Paxos 组架构，解释如何在生产系统中实现分布式事务。
 tags: [MIT 6.824, 分布式系统, Spanner, 分布式事务, Paxos, 外部一致性]
 category: Distributed Systems

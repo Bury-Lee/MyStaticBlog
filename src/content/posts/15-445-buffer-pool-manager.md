@@ -1,6 +1,6 @@
-﻿---
+---
 title: 缓存池管理器深度解析：Latch、页表、mmap 与并发控制
-published: 2025-03-31
+published: 2024-11-02
 description: 深入讲解数据库缓冲池管理器的核心机制，包括帧的概念、Latch 与 Lock 的本质区别、页表与页目录的分工，以及 mmap 虚拟内存映射在数据库中的应用与陷阱。
 tags: [CMU 15-445, 数据库, 缓冲池, Latch, 并发控制, mmap, 存储引擎]
 category: Database

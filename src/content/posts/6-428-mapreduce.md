@@ -1,6 +1,6 @@
-﻿---
+---
 title: MapReduce 详解：分布式计算的「分而治之」之道
-published: 2025-04-30
+published: 2024-12-08
 description: 以 Google 经典论文为蓝本，梳理 MapReduce 的 Map / Shuffle / Reduce 三阶段工作流程，以及 Master-Worker 架构、数据局部性优化策略。
 tags: [MIT 6.428, 分布式系统, MapReduce, Google, 大数据]
 category: Distributed Systems

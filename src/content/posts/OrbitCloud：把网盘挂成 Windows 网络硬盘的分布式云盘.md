@@ -1,6 +1,6 @@
 ---
 title: OrbitCloud：把网盘挂成 Windows 网络硬盘的分布式云盘
-published: 2026-09-01
+published: 2026-07-27
 description: 企业级分布式网盘 OrbitCloud 的项目介绍：内置 Rust SMB 网关，网盘可直接挂载为 Windows 网络硬盘；讲解设计思路、核心特点、权限体系、回收站机制、分布式容灾与部署方式。
 tags: [Go, Vue, Rust, SMB, 网盘, 分布式, 开源]
 category: 项目

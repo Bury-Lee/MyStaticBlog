@@ -297,6 +297,18 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa7-brands:qq",
 				},
+				{
+					name: "博客平台",
+					url: "https://blog.stardreamer.cloud",
+					external: true,
+					icon: "material-symbols:article",
+				},
+				{
+					name: "个人博客",
+					url: "https://muziki.stardreamer.cloud",
+					external: true,
+					icon: "material-symbols:menu-book",
+				},
 			],
 		},
 		{

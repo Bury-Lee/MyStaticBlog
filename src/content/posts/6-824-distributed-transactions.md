@@ -1,6 +1,6 @@
-﻿---
+---
 title: 分布式事务入门：ACID 与可串行化的核心概念
-published: 2025-06-19
+published: 2025-07-03
 description: 详细解释 ACID 的原子性、一致性、隔离性、持久性，重点阐述可串行化（Serializability）的定义与验证方法，并通过经典的银行转账审计案例展示串行执行顺序。
 tags: [MIT 6.824, 分布式系统, 分布式事务, ACID, 可串行化]
 category: Distributed Systems

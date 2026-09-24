@@ -1,6 +1,6 @@
 ---
 title: Go语言入门：从零到Hello World
-published: 2025-05-08
+published: 2025-03-16
 description: Go 是 Google 发布的静态类型、编译型语言，以简洁、高效、并发友好著称。从环境安装、基本语法到函数、接口、错误处理，一站式入门指南。
 tags: [Go, Programming, Tutorial]
 category: Go

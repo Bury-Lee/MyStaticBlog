@@ -1,6 +1,6 @@
 ---
 title: Go Channel 解析：原理与实践
-published: 2025-05-03
+published: 2025-01-14
 description: Channel 是 Go 并发编程的「通信管道」，是 CSP 模型的核心实现。覆盖创建、发送、接收、关闭、缓冲、select 多路复用等全部核心知识。
 tags: [Go, Channel, CSP, Concurrency]
 category: Go

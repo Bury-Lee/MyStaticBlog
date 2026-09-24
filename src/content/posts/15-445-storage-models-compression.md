@@ -1,6 +1,6 @@
-﻿---
+---
 title: 数据库存储模型与压缩技术：从行存到列存
-published: 2025-03-21
+published: 2024-10-21
 description: 对比 OLTP 与 OLAP 的存储需求差异，详细解析行存（NSM）、列存（DSM）和混合模型（PAX）的优劣，覆盖主流压缩方法。
 tags: [CMU 15-445, 数据库, 存储模型, NSM, DSM, 列存储, 压缩, OLTP, OLAP]
 category: Database
