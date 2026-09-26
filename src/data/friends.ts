@@ -28,6 +28,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://myt.stardreamer.cloud",
 		tags: ["画师", "画册"],
 	},
+	{
+		id: 3,
+		title: "agilePool",
+		imgurl: "https://agilepool.stardreamer.cloud/logo.jpg",
+		desc: "自适应高性能 Go 协程池 · 官方文档站",
+		siteurl: "https://agilepool.stardreamer.cloud",
+		tags: ["Go", "开源项目"],
+	},
 ];
 
 // 获取所有友情链接数据
