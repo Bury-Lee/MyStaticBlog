@@ -36,6 +36,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://agilepool.stardreamer.cloud",
 		tags: ["Go", "开源项目"],
 	},
+	{
+		id: 4,
+		title: "星梦的赛博小屋 · GoBlog",
+		imgurl: "https://blog.stardreamer.cloud/favicon.svg",
+		desc: "基于 GoBlog 的技术分享与内容社区",
+		siteurl: "https://blog.stardreamer.cloud",
+		tags: ["博客", "技术社区"],
+	},
 ];
 
 // 获取所有友情链接数据
