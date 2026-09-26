@@ -120,6 +120,20 @@ export const projectsData: Project[] = [
     "featured": false,
     "tags": ["SSH", "命令行", "WSL", "Go"],
     "showImage": false
+  },
+  {
+    "id": "gotenon",
+    "title": "GoTenon（榫卯）",
+    "description": "面向 Go 的插件化内核：上下文作用域 × 依赖驱动生命周期 × 可逆副作用，插件按依赖图收敛装载、一切注册皆可精确回滚，纯标准库零依赖",
+    "image": "",
+    "category": "other",
+    "techStack": ["Go"],
+    "status": "in-progress",
+    "sourceCode": "https://github.com/Bury-Lee/GoTenon",
+    "startDate": "2026-09-19",
+    "featured": true,
+    "tags": ["Go", "插件化", "框架", "开源库"],
+    "showImage": false
   }
 ];
 
