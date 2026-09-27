@@ -30,9 +30,9 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 3,
-		title: "agilePool",
+		title: "agilePool 官网",
 		imgurl: "https://agilepool.stardreamer.cloud/logo.jpg",
-		desc: "自适应高性能 Go 协程池 · 官方文档站",
+		desc: "高性能 Go 协程池 · 官方文档站",
 		siteurl: "https://agilepool.stardreamer.cloud",
 		tags: ["Go", "开源项目"],
 	},
@@ -43,6 +43,30 @@ export const friendsData: FriendItem[] = [
 		desc: "基于 GoBlog 的技术分享与内容社区",
 		siteurl: "https://blog.stardreamer.cloud",
 		tags: ["博客", "技术社区"],
+	},
+	{
+		id: 5,
+		title: "Fhc1m Blog",
+		imgurl: "https://fhc1m.com/favicon.svg",
+		desc: "Fhc1m 的个人博客 · Java 后端 / 项目复盘 / AI Agent 实验",
+		siteurl: "https://fhc1m.com/",
+		tags: ["博客", "Java", "AI"],
+	},
+	{
+		id: 6,
+		title: "PAVILION_CAT",
+		imgurl: "https://lcatl.cn/logo.png",
+		desc: "猫猫的自留地 · 个人业务导航站",
+		siteurl: "https://lcatl.cn/",
+		tags: ["导航站", "工具"],
+	},
+	{
+		id: 7,
+		title: "Fhc1m的抖音",
+		imgurl: "/douyin.png",
+		desc: "抖音主页",
+		siteurl: "https://v.douyin.com/mL_6csGCJXc/",
+		tags: ["抖音"],
 	},
 ];
 
