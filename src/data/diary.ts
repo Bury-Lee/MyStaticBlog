@@ -63,6 +63,12 @@ const diaryData: DiaryItem[] = [
 		date: "2026-09-24T18:50:00Z",
 		tags: ["StarDreamer", "部署", "Cloudflare", "日记"],
 	},
+	{
+	id: 6,
+	content: `神秘复苏真好看~`,
+	date: "2026-10-11T00:00:00Z",
+	tags: ["小说", "神秘复苏"],
+	},
 ];
 
 // 获取日记列表（按时间倒序）

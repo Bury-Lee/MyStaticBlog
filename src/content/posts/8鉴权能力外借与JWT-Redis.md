@@ -5,7 +5,6 @@ description: 讲“能力外借”：组件不跨模块 import，而是把鉴权
 tags: [Go, JWT, Redis, 鉴权, StarDreamerChaosmos]
 category: 项目
 draft: false
-pinned: true
 priority: 8
 ---
 

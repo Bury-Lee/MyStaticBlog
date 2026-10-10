@@ -5,7 +5,6 @@ description: 先不写任何业务，先造管理组件的地基：用一张 Plu
 tags: [Go, 架构, 插件化, 内核, StarDreamerChaosmos]
 category: 项目
 draft: false
-pinned: true
 priority: 1
 ---
 
